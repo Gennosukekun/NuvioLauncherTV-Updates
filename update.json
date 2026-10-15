@@ -1,9 +1,9 @@
 {
-  "versionCode": 75,
-  "versionName": "0.4.16",
-  "apkUrl": "https://github.com/Gennosukekun/NuvioLauncherTV-Updates/releases/download/v0.4.16/NuvioLauncherTV-0.4.16.apk",
-  "releaseUrl": "https://github.com/Gennosukekun/NuvioLauncherTV-Updates/releases/tag/v0.4.16",
-  "changelog": "Nuvio Launcher TV 0.4.16",
-  "publishedAt": "2026-10-15T16:14:46.356817Z",
-  "sha256": "864d1fd9fd2e03eef57e84219d8d47205d53fb065f68969dbb992b73d81ae870"
+  "versionCode": 76,
+  "versionName": "0.4.17",
+  "apkUrl": "https://github.com/Gennosukekun/NuvioLauncherTV-Updates/releases/download/v0.4.17/NuvioLauncherTV-0.4.17.apk",
+  "releaseUrl": "https://github.com/Gennosukekun/NuvioLauncherTV-Updates/releases/tag/v0.4.17",
+  "changelog": "Nuvio Launcher TV 0.4.17",
+  "publishedAt": "2026-10-15T16:33:20.866374Z",
+  "sha256": "833c5f935b72b8f909fffb1f7a6cdea33a212c5b85e924c77edfbe186af8e3f3"
 }
